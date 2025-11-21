@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import bgImage from "../assets/kust_bg.jpg";
+import bgImage from "../assets/Kust_bg.jpg";
 import DonerButton from "../components/DonerButton";
 
 const Home = () => {
